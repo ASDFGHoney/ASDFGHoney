@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/92b864c0-29c6-4103-ab4a-79593ca0db66?provider=claude&period=today&style=card
-https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/92b864c0-29c6-4103-ab4a-79593ca0db66?provider=codex&period=today&style=flat
+![AI Token Monitor](https://giunmtxxvapcgrpxjopq.supabase.co/functions/v1/badge/92b864c0-29c6-4103-ab4a-79593ca0db66?provider=claude&period=today&style=card)
